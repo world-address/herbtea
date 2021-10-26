@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "bbc9df2961f90fd3",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc4a9cde69504d47",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ハーブティ制作日記/2021-10-19.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df76e1992d2c4bdf",
+    "type": "split",
+    "children": [
+      {
+        "id": "15082d993fc199de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc102dda06042034",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "eb52828c2d8e6598",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a8422e4339f1df21",
+    "type": "split",
+    "children": [
+      {
+        "id": "5549e02c6c38366c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "716620489f4c7714",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ハーブティ制作日記/2021-10-19.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "fc4a9cde69504d47",
+  "lastOpenFiles": [
+    "ハーブティ制作日記/2021-10-19.md",
+    "ハーブ各論/カレンデュラ.md",
+    "無題のファイル 1.md",
+    "作用一覧/作用一覧.md",
+    "無題のファイル.md",
+    "ハーブ各論/ジャーマンカモミール.md",
+    "aaa.md",
+    "ハーブ各論/無題のファイル.md",
+    "2021-10-19.md"
+  ]
+}
